@@ -1,0 +1,12 @@
+#foot{
+    justify-content:space-around;
+}
+#foot .foot_top{
+    width:650px;
+    height:250px;
+    margin-bottom:0;
+}
+#foot .foot_bottom{
+    width:650px;
+    height:250px;
+}

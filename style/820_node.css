@@ -1,0 +1,12 @@
+#foot{
+    justify-content:center;
+}
+#foot .foot_top{
+    width:820px;
+    height:200px;
+    margin-bottom:15px;
+}
+#foot .foot_bottom{
+    width:820px;
+    height:200px;
+}

@@ -1,0 +1,36 @@
+#logo .sup_form{
+    display:block;
+    width:380px;
+    right:140px;
+}
+#logo .help,.consulting{
+    display:block;
+}
+#logo .right p{
+    display:block;
+}
+#lis{
+    padding:10px 30px 0 0;
+}
+#lis li a{
+    width:150px;
+    text-align:center;
+}
+#menu .freight{
+    display:block;
+}
+#menu .tracking{
+    display:block;
+}
+#foot{
+    justify-content:space-around;
+}
+#foot .foot_top{
+    width:600px;
+    height:200px;
+    margin-bottom:0;
+}
+#foot .foot_bottom{
+    width:600px;
+    height:200px;
+}

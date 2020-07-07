@@ -1,0 +1,217 @@
+#logo .sup_form{
+    display:none;
+}
+#logo .right p{
+    display:none;
+}
+html #home_page{
+    display:block;
+}
+#school_main{
+    padding:0;
+}
+#school_main .in_school{
+    max-width:870px;
+    height:100%;
+    left:50%;
+    transform:translateX(-52%);
+    position:relative;
+}
+#school_main .in_school .school_img{
+    width:375px;
+    height:170px;
+    position:absolute;
+    left:210px;
+    top:162px;
+    transform:translateX(-50%);
+}
+#school_main span{
+    height:60px;
+    line-height:60px;
+    position:absolute;
+    right:200px;
+    top:75px;
+}
+#school_main span:nth-of-type(1){
+    font-size:28px;
+    position:absolute;
+    left:420px;
+    top:55px;
+}
+#school_main span:nth-of-type(2){
+    font-size:25px;
+    position:absolute;
+    left:420px;
+    top:115px;
+    /*border:solid 1px;*/
+    width:350px;
+}
+#school_main span:nth-of-type(3){
+    font-size:14px;
+    position:absolute;
+    left:420px;
+    top:175px;
+    /*border:solid 1px;*/
+    min-width:300px;
+}
+#school_main ul{
+    font-size:13px;
+    position:absolute;
+    left:420px;
+    top:235px;
+}
+#bag{
+    height:240px;
+}
+#bag .trapezoidal_bag{
+    width:44%;
+    border-bottom:240px solid #d0340a;
+    border-right:130px solid transparent;
+}
+#bag .trapezoidal_bag span{
+    left:50%;
+    transform:translate(-50%);
+}
+#bag span:nth-of-type(1){
+    top:70px;
+}
+#bag span:nth-of-type(2){
+    top:75px;
+    padding-top:35px;
+}
+#bag span:nth-of-type(3){
+    top:100px;
+    padding-top:35px;
+}
+#bag img{
+    left:44%;
+    height:240px;
+}
+/*#bag .trapezoidal_bag{*/
+    /*width:52%;*/
+    /*border-bottom:250px solid #d0340a;*/
+    /*border-left:0 solid transparent;*/
+    /*border-right:150px solid transparent;*/
+/*}*/
+/*#bag span:nth-of-type(1){*/
+    /*top:72px;*/
+/*}*/
+/*#bag span:nth-of-type(2){*/
+    /*top:87px;*/
+    /*padding-top:35px;*/
+/*}*/
+/*#bag span:nth-of-type(3){*/
+    /*top:112px;*/
+    /*padding-top:35px;*/
+/*}*/
+
+/*#bag{*/
+    /*height:250px;*/
+/*}*/
+/*#bag .trapezoidal_attached{*/
+    /*width:58%;*/
+    /*border-bottom:250px solid #d0340a;*/
+    /*border-left:0 solid transparent;*/
+    /*border-right:150px solid transparent;*/
+/*}*/
+/*#bag span:nth-of-type(1){*/
+    /*top:72px;*/
+/*}*/
+/*#bag span:nth-of-type(2){*/
+    /*top:87px;*/
+    /*padding-top:35px;*/
+/*}*/
+/*#bag span:nth-of-type(3){*/
+    /*top:112px;*/
+    /*padding-top:35px;*/
+/*}*/
+.bag_attached{
+    height:240px;
+}
+.bag_attached .trapezoidal_attached{
+    width:44%;
+    border-bottom:240px solid #d0340a;
+    border-right:130px solid transparent;
+}
+.bag_attached .trapezoidal_attached span{
+    left:50%;
+    transform:translate(-50%);
+}
+.bag_attached span:nth-of-type(1){
+    top:70px;
+}
+.bag_attached span:nth-of-type(2){
+    top:75px;
+    padding-top:35px;
+}
+.bag_attached span:nth-of-type(3){
+    top:100px;
+    padding-top:35px;
+}
+.bag_attached img{
+    left:44%;
+    height:240px;
+}
+
+
+
+/*.bag_attached span:nth-of-type(1){*/
+    /*top:72px;*/
+/*}*/
+/*.bag_attached span:nth-of-type(2){*/
+    /*top:87px;*/
+    /*padding-top:35px;*/
+/*}*/
+/*.bag_attached span:nth-of-type(3){*/
+    /*top:112px;*/
+    /*padding-top:35px;*/
+/*}*/
+
+/*.bag_attached{*/
+    /*height:250px;*/
+/*}*/
+/*.bag_attached .trapezoidal_attached{*/
+    /*width:58%;*/
+    /*border-bottom:250px solid #d0340a;*/
+    /*border-left:0 solid transparent;*/
+    /*border-right:150px solid transparent;*/
+/*}*/
+/*.bag_attached span:nth-of-type(1){*/
+    /*top:72px;*/
+/*}*/
+/*.bag_attached span:nth-of-type(2){*/
+    /*top:87px;*/
+    /*padding-top:35px;*/
+/*}*/
+/*.bag_attached span:nth-of-type(3){*/
+    /*top:112px;*/
+    /*padding-top:35px;*/
+/*}*/
+
+#hot .out_div:nth-of-type(1){
+    height:240px;
+}
+#hot .out_div:nth-of-type(2){
+    height:240px;
+}
+
+#hot .out_div:nth-of-type(1) .hot_title,p{
+    display:none;
+}
+#hot .out_div:nth-of-type(1) .hi{
+    display:block;
+    font-size:12px;
+    margin-top:25px;
+}
+#hot .out_div:nth-of-type(2) .hot_title{
+    display:none;
+}
+.hot_attached .out_div .hot_div>p{
+    display:block;
+}
+/*#foot .foot_top{*/
+    /*width:500px;*/
+/*}*/
+/*#foot .foot_bottom{*/
+    /*width:500px;*/
+/*}*/
